@@ -2,3 +2,4 @@
 coba conflict
 # modifikasi 1
 coba conflict 
+example for staging
