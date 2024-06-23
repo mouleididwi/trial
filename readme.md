@@ -25,6 +25,6 @@ import pandas as pd
 1. dokumentasi web
 
 
-![Alt Text](C:\Users\Lenovo\Downloads\Pic7.PNG)
+![Preview](C:\Users\Lenovo\Downloads\Pic7.PNG)
 
 
