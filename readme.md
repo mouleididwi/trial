@@ -26,5 +26,6 @@ import pandas as pd
 
 
 ![Preview](C:\Users\Lenovo\Downloads\Pic7.PNG)
+![Pic7](https://github.com/mouleididwi/trial/assets/172493910/c71ff87d-b7eb-4c9d-847e-191f7e021d7b)
 
 
