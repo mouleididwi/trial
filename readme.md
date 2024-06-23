@@ -25,4 +25,6 @@ import pandas as pd
 1. dokumentasi web
 
 
-<img src=""C:\Users\Lenovo\Downloads\Pic7.PNG"" width="800" />
+![Alt Text](C:\Users\Lenovo\Downloads\Pic7.PNG)
+
+
