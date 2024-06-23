@@ -23,3 +23,6 @@ import pandas as pd
 ## references
 
 1. dokumentasi web
+
+
+<img src=""C:\Users\Lenovo\Downloads\Pic7.PNG"" width="800" />
